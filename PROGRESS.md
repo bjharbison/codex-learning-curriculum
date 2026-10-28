@@ -64,3 +64,19 @@ On GitHub, open this file, click **Edit**, change `- [ ]` to `- [x]`, and commit
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
+
+## Applied defender labs (portfolio)
+- [ ] Lab 1 — Document a threat model for an owned repository
+- [ ] Lab 2 — Triage findings using evidence, CVSS and EPSS appropriately
+- [ ] Lab 3 — Fix one confirmed issue and pass a regression test
+- [ ] Lab 4 — Test a detection using synthetic logs and document response steps
+- [ ] Lab 5 — Assemble and rehearse an evidence-based 10-minute demo
+
+## 10-minute demonstration checklist
+- [ ] Build an executive-friendly scenario with synthetic backlog
+- [ ] Show validation and prioritization evidence
+- [ ] Show a reviewed patch and verified tests
+- [ ] Demonstrate where AI was wrong and a human overruled it
+- [ ] Rehearse and complete the presentation within ten minutes
+
+See [defender labs](DEFENDER-SKILLS.md) and [demo playbook](DEMO-PLAYBOOK.md).
