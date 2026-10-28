@@ -46,3 +46,10 @@ A practical, GitHub-tracked learning path for a developer coming from Claude Cod
 - [Daybreak Blue getting started](https://learn.chatgpt.com/use-cases/getting-started-with-daybreak-blue)
 - [Daybreak troubleshooting](https://help.openai.com/en/articles/20001259-troubleshooting-openai-daybreak)
 - [GitHub Skills](https://skills.github.com/)
+
+## Applied defender-skills portfolio
+
+- [Defender lifecycle labs](DEFENDER-SKILLS.md) — five hands-on security labs, from threat modeling through validating and remediating findings.
+- [10-minute demonstration playbook](DEMO-PLAYBOOK.md) — a reusable executive-friendly human-plus-AI cyber defense demonstration with explicit human checkpoints.
+
+**Suggested capstone:** Run the labs against an owned repository using synthetic or public test data, then assemble a 10-minute demo with documented evidence. The demo works with standard Codex; Daybreak Blue is optional and subject to approval.
