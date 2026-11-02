@@ -1,14 +1,20 @@
-# ChatGPT + Codex Learning Curriculum
+# Learning Codex: A Self-Directed Curriculum
 
-A practical, GitHub-tracked learning path for a developer coming from Claude Code with limited hands-on coding experience. **Goal:** get productive as fast as possible while learning to supervise agents, verify changes, and ship safe software.
+After twenty years of helping senior decision-makers understand complex adversaries, I came to agentic coding as a practitioner rather than a developer. I learned to build with Claude Code (Anthropic's agentic coding tool) first. This repository documents how I am learning OpenAI's Codex, and how I hold myself accountable for that learning.
+
+While the curriculum teaches coding, the goal is not to become a software engineer. It is to become productive with coding agents quickly and safely: to supervise an agent, verify its changes, and ship software I can defend. This distinction matters, because an agent that writes code faster than its operator can review it is a liability rather than a force multiplier. The cybersecurity track builds toward Daybreak Blue (OpenAI's trusted-access program for defensive cyber work); my access request is in progress, and I will use it only within its approved scope.
+
+**Evidence over checkboxes.** The repository is organized around three records:
+
+1. [PROGRESS.md](PROGRESS.md) tracks where I am in the curriculum;
+2. [LEARNING-JOURNAL.md](LEARNING-JOURNAL.md) records what I built and how I verified it, with each entry linked to its commit or pull request; and
+3. the week guides below lay out what comes next.
 
 ## Choose your track
 
 - **Fastest route:** [10-day accelerated sprint](ACCELERATED-TRACK.md), ~90–120 minutes per day, combining the highest-value lessons in the first two weeks.
 - **Sustainable route:** [4-week / 20-lesson course](#four-week-syllabus), ~30–60 minutes per day.
 - **Cybersecurity specialization:** [Daybreak Blue and secure SDLC](DAYBREAK-BLUE.md), to study alongside either route. **Daybreak Blue access requires approval**, and is for authorized defensive cybersecurity work—not a general-purpose coding speed upgrade.
-
-**Start:** [PROGRESS.md](PROGRESS.md) is your permanent progress checklist. On GitHub click Edit (pencil), tick boxes by changing `[ ]` to `[x]`, and commit. Use [LEARNING-JOURNAL.md](LEARNING-JOURNAL.md) to record evidence and questions.
 
 ## Four-week syllabus
 
