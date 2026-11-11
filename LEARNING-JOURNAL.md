@@ -1,21 +1,16 @@
-# Learning journal
+# Learning Journal
 
-Complete after each lesson. Link to actual commits or pull requests.
+## Day / Lesson: _____
 
-## Day __ — Topic
-- **Date:**
-- **Goal:**
-- **What I did:**
-- **Commit or PR URL:**
-- **Tests / verification evidence:**
-- **What I learned:**
-- **Confusing terms or questions:**
-- **Next action:**
-
----
-
-## Sprint retrospective
-- Most useful Codex workflow:
-- Most frequent mistake:
-- Security boundary I checked:
-- Next weakness to practice:
+- Date:
+- Goal and audience:
+- Tools used (standard Codex, ChatGPT, approved Daybreak Blue, etc.):
+- Owned repository or synthetic lab:
+- Prompts and commands:
+- Evidence: commit, PR, tests, demo:
+- What worked:
+- What failed or wasn't tested:
+- Model errors and human decisions:
+- Two-minute technical teach-back:
+- Two-minute executive explanation:
+- Next action:

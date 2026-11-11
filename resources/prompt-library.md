@@ -1,19 +1,22 @@
-# Reusable prompts
+# Role-Aligned Prompts
 
-## Read-only repo onboarding
-> I am learning Codex. Inspect this repository without editing files. Explain entry points, architecture, setup, commands for building and testing, current risks, and three low-risk first changes. Separate verified facts from assumptions.
+## Read-only repository tour
+> Inspect this repository without changing files. Explain what it does, entry points, architecture, build and test commands, and three low-risk learning opportunities. Mark assumptions clearly.
 
-## Plan before code
-> Investigate [feature/bug], but make no edits yet. Produce current behavior, goal, relevant files, proposed minimal changes, dependencies, risks, acceptance criteria, and test plan.
+## Authorized secure review
+> Review only this owned/authorized repository for possible defensive AppSec issues. Do not scan external systems or perform exploitation. For each candidate finding provide relevant code, assumptions, impact, false-positive possibilities and safe validation steps. Make no edits until approved.
 
-## Implementation
-> Work on a new branch for [feature]. Scope: [files/features]. Constraints: [rules]. Acceptance: [observable tests]. Make the smallest change, run checks, summarize diff and limitations, and do not merge or deploy.
+## Prioritize findings
+> Given these documented candidate findings and asset contexts, compare severity, CVSS, EPSS when available, exposure, compensating controls and mission impact. Separate observed data from assumptions; explain the recommended order and its uncertainty.
 
-## Code review
-> Critically review this diff for correctness, regression risks, unintended modifications, test gaps, dependencies, and security flaws. Prioritize concrete findings with file references. Do not simply agree that it works.
+## Patch and verify
+> Fix this confirmed issue on a feature branch with the smallest reviewable change. Add a regression test, run appropriate checks, summarize diffs, document untested scenarios and give rollback steps. Do not deploy or merge.
 
-## Authorized security review
-> Review only this repository and its local safe test fixtures for defensive AppSec issues. Identify assets and trust boundaries, provide evidence for each potential finding, assess false positives, suggest minimal patches and tests. Do not perform network probing, exploitation or changes outside my authorized scope.
+## Build a practitioner workshop
+> Turn this verified defensive workflow into a 45-minute instructor-led lab. Include prerequisites, timed agenda, synthetic fixtures, learner tasks, answer key, false-positive discussion, safety boundaries, and evaluation criteria.
 
-## Explain like a mentor
-> Explain the proposed change in plain English, show the execution path, define technical terms, explain what each test proves, and explain how to revert safely.
+## Executive demo
+> Convert the verified lab into a 10-minute demonstration for state/local government executives. Emphasize mission impact, evidence, human oversight, governance, and measured pilot adoption. Never invent product capabilities or results.
+
+## Product issue
+> Translate observed operator friction into a concise product ticket: persona, reproducible problem, expected behavior, impact, steps, acceptance criteria, privacy/security considerations, and missing evidence.
