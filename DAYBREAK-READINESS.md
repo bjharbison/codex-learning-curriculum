@@ -12,6 +12,8 @@ Daybreak Blue is an **approval-based access tier for authorized defensive cybers
 - [ ] Confirm explicit approval, provisioning, and which product surfaces/models are enabled.
 - [ ] Keep identity documents, recovery codes, passwords, account security status and application records out of this public repo.
 
+For an expanded lab checklist, see the [Daybreak Blue defensive learning reference](DAYBREAK-BLUE.md) and [defender lifecycle labs](DEFENDER-SKILLS.md).
+
 ## Five defensive labs (start using standard Codex)
 
 1. **Threat model:** identify assets, entry points, data flows, trust boundaries and likely defensive controls.
