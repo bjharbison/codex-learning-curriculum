@@ -1,8 +1,10 @@
-# Four-Week Role-Aligned Syllabus
+# Four-Week Applied Cybersecurity and AI Syllabus
 
-This is the deeper companion to the intensive sprint. Each lesson should leave an artifact or observable skill.
+This is the deeper companion to the [14-day sprint](14-DAY-SPRINT.md). Each lesson should leave an artifact or observable skill.
 
 ## Week 1: Foundations and government context
+
+[Open the Week 1 lesson guide](weeks/week-01.md)
 
 ### Lesson 1: ChatGPT, Codex, Daybreak, and Claude: what each actually does
 
@@ -41,6 +43,8 @@ This is the deeper companion to the intensive sprint. Each lesson should leave a
 
 ## Week 2: Defender lifecycle
 
+[Open the Week 2 lesson guide](weeks/week-02.md)
+
 ### Lesson 6: Secure code review on owned code
 
 - **Study:** Explain the concept with one government defender example and reference credible standards.
@@ -78,6 +82,8 @@ This is the deeper companion to the intensive sprint. Each lesson should leave a
 
 ## Week 3: Training and government audiences
 
+[Open the Week 3 lesson guide](weeks/week-03.md)
+
 ### Lesson 11: Design a SOC practitioner workshop
 
 - **Study:** Explain the concept with one government defender example and reference credible standards.
@@ -114,6 +120,8 @@ This is the deeper companion to the intensive sprint. Each lesson should leave a
 - **Teach:** Explain it to a practitioner and then a CISO or authorizing official.
 
 ## Week 4: Enablement leadership
+
+[Open the Week 4 lesson guide](weeks/week-04.md)
 
 ### Lesson 16: Capture feedback from defenders
 
