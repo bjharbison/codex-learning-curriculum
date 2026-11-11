@@ -1,8 +1,8 @@
 # Learning Codex: A Self-Directed Curriculum
 
-After twenty years of helping senior decision-makers understand complex adversaries, I came to agentic coding as a practitioner rather than a developer. I learned to build with Claude Code (Anthropic's agentic coding tool) first. This repository documents how I am learning OpenAI's Codex, and how I hold myself accountable for that learning.
+This repository is a practical, self-directed program for becoming proficient with ChatGPT, Codex, GitHub, and AI-assisted software development. It emphasizes real projects, evidence-backed testing, and safe agent supervision rather than memorizing syntax.
 
-While the curriculum teaches coding, the goal is not to become a software engineer. It is to become productive with coding agents quickly and safely: to supervise an agent, verify its changes, and ship software I can defend. This distinction matters, because an agent that writes code faster than its operator can review it is a liability rather than a force multiplier. The cybersecurity track builds toward Daybreak Blue (OpenAI's trusted-access program for defensive cyber work); my access request is in progress, and I will use it only within its approved scope.
+The defensive cybersecurity track adds threat modeling, vulnerability triage, remediation, detection, and practical enablement exercises. Daybreak Blue is an optional approved-access path for authorized defensive work; the curriculum remains usable without it.
 
 **Evidence over checkboxes.** The repository is organized around three records:
 
