@@ -7,14 +7,14 @@ The defensive cybersecurity track adds threat modeling, vulnerability triage, re
 ## Choose your track
 
 - [14-day intensive sprint](14-DAY-SPRINT.md) — high-intensity, project-based practice.
-- [Four-week syllabus](4-WEEK-SYLLABUS.md) — structured learning and deeper practice.
-- [Daybreak Blue readiness](DAYBREAK-READINESS.md) — access checklist and authorized defensive labs.
+- [Four-week syllabus](4-WEEK-SYLLABUS.md) — structured learning and deeper practice. [Week 1](weeks/week-01.md) · [Week 2](weeks/week-02.md) · [Week 3](weeks/week-03.md) · [Week 4](weeks/week-04.md).
+- [Daybreak Blue readiness](DAYBREAK-READINESS.md) — access checklist and authorized defensive labs. The [extended defensive lab reference](DAYBREAK-BLUE.md) is optional.
 
 ## Track your progress
 
 Edit [PROGRESS.md](PROGRESS.md) on GitHub and change `[ ]` to `[x]` after completing an exercise. Commit the change so progress is recorded in version history.
 
-Use [LEARNING-JOURNAL.md](LEARNING-JOURNAL.md) for reflections and [PORTFOLIO.md](PORTFOLIO.md) for links to demonstrated work.
+Use [LEARNING-JOURNAL.md](LEARNING-JOURNAL.md) for reflections and [PORTFOLIO.md](PORTFOLIO.md) for links to demonstrated work. The 14-day sprint and 20-lesson course are **alternative schedules**, not 34 required lessons; completing equivalent work in either track can be documented in the other.
 
 ## Core learning outcomes
 
@@ -27,6 +27,14 @@ Use [LEARNING-JOURNAL.md](LEARNING-JOURNAL.md) for reflections and [PORTFOLIO.md
 ## Safety and privacy
 
 Work only on systems and repositories you own or are explicitly authorized to assess. Use synthetic or public test data when appropriate. Never commit credentials, recovery codes, identity documents, private work data, or sensitive security findings to this public repository. Daybreak Blue requires approval and must be used only within its authorized scope.
+
+## More hands-on references
+
+- [Defender lifecycle labs](DEFENDER-SKILLS.md)
+- [Ten-minute demonstration playbook](DEMO-PLAYBOOK.md)
+- [Prompt library](resources/prompt-library.md)
+- [Safety checklist](resources/safety-checklist.md)
+- [Beginner glossary](resources/glossary.md)
 
 ## Official resources
 
